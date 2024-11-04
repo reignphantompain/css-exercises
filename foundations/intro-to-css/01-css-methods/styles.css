@@ -1,0 +1,14 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    background-color: red;
+    font-size: 2rem;
+    text-align: center;
+}
