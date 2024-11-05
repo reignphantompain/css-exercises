@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd,
+.normal{
+    background-color: #ff000060;
+}
+
+.normal {
+    font-size: 2em;
+}
+
+.cooler {
+    font-size: 3em;
+    font-weight: 500;
+}
+
+#azure {
+    color: #0000ff;
+    font-size: 4em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+#emerald {
+    background-color: #00ff0070;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
